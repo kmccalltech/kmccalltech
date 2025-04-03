@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/kmccalltech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kmccalltech/ad-config)
+  - [Configuring Active Directory within Azure VMs](https://github.com/kmccalltech/ad-config)
 - <b>Technology Projects/Labs</b>
   - [SQL Queires](https://github.com/kmccalltech/SQL-Queries)
   
