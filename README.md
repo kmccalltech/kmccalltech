@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/kmccalltech/osticket-config)
 - <b>Microsoft Azure</b>
   - [Configuring and Creating Users in Active Directory within Azure VMs](https://github.com/kmccalltech/ad-config)
+  - [Group Policy with Active Directory](https://github.com/kmccalltech/Group-Policy)
 - <b>Technology Projects/Labs</b>
   - [SQL Queires](https://github.com/kmccalltech/SQL-Queries)
   
