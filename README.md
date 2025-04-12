@@ -5,6 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kmccalltech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kmccalltech/osticket-config)
+  -  [osTicket: Tocket Simulation](https://github.com/kmccalltech/osticket-simulation)
 - <b>Microsoft Azure</b>
   - [Configuring and Creating Users in Active Directory within Azure VMs](https://github.com/kmccalltech/ad-config)
   - [Group Policy with Active Directory](https://github.com/kmccalltech/Group-Policy)
